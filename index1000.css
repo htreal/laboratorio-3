@@ -1,0 +1,80 @@
+body{
+
+    background-color: pink;
+}
+
+
+table {
+    font-family: arial sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+.encabezado{
+    border: 1px solid;
+    width: 100%;
+    padding: 1px;
+    text-align: center;
+    align-items: center;
+
+}
+
+#almedio{
+    display: flex;
+}
+
+#almedio .izquierda{
+    width: 50%;
+    text-align: center;
+    height: 30%;
+}
+
+.parte2{
+    text-align: center;
+}
+
+#almedio .derecha{
+    width: 50%; 
+    text-align: center;
+    height: 30%;
+}
+
+.tabla1{
+
+    text-align: center;
+}
+
+.Escribenos{
+    border: 1px solid black;
+    
+}
+
+#Cuadro{
+    margin-inline-start: 26cm;
+    width: 500px;s
+}
+
+
+h1{
+    text-align: center;
+}
+
+#tabla{
+    border: 1px black solid;
+    text-align: center;
+    width: 100%;
+}
+
+.imagen{
+    text-align: center;
+    margin-inline-start: -4cm;
+    
+}
+
+.almedio{
+    text-align: center;
+}
+
+.boton{
+    margin: 0cm 2cm 0cm;
+}
